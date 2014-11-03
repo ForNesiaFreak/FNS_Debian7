@@ -15,4 +15,4 @@ JUMLAH="$(awk -F: '$3 >= 1000 && $1 != "nobody" {print $1}' /etc/passwd | wc -l)
 echo "-------------------------------"
 echo "Jumlah akun: $JUMLAH user"
 echo "-------------------------------"
-echo -e "\e[ Script By Yuri Bhuana (fb.com/youree82, 085815002021) ]\e"
+echo -e "\e[ www.fornesia.com ]\e"
