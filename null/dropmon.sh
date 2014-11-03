@@ -42,7 +42,7 @@ do
     fi
 done
 echo "----------------------------------------------------------------" 
-echo "      Script By Yuri Bhuana (fb.com/youree82, 085815002021)     " 
+echo "          Auto Script VPS Install www.fornesia.com     " 
 else
 echo "  Gunakan perintah ./dropmon.sh [port]"
 echo "  contoh : ./dropmon.sh 443"
