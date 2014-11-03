@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright Fedora Computer
+# Script Copyright www.fornesia.com
 # ==========================
 # 
 
@@ -58,11 +58,10 @@ last | grep ppp
 echo "";
 
 echo "------------------------------------------------"
-echo " Kalau ada Multi Login Kill Aja "
-echo " Tetap Multi Login Ganti Passnya baru Kill Lagi "
-echo " Caranya pake Kill nomor PID "
+echo " Multi Login = Kill "
+echo " Cara pakai : Kill nomor PID "
 echo "------------------------------------------------"
 
 echo "";
 
-echo "Script By Yuri Bhuana (fb.com/youree82, 085815002021)";
+echo "www.fornesia.com";
