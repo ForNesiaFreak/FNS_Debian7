@@ -8,4 +8,4 @@ echo $FREE
 echo $SWAP
 echo $UP
 echo "----------------------------------------------------------------"
-echo "      Script By Yuri Bhuana (fb.com/youree82, 085815002021)     " 
+echo "                       www.fornesia.com                         " 
