@@ -231,7 +231,7 @@ wget -O user-list.sh "https://raw.githubusercontent.com/ForNesiaFreak/FNS_Debian
 wget -O /etc/issue.net "https://raw.githubusercontent.com/ForNesiaFreak/FNS_Debian7/fornesia.com/null/banner"
 echo "0 0 * * * root /root/user-expired.sh" > /etc/cron.d/user-expired
 #echo "@reboot root /root/userlimit.sh" > /etc/cron.d/userlimit
-echo "0 */12 * * * root /sbin/reboot" > /etc/cron.d/reboot
+echo "0 0 * * * root /usr/bin/reboot" > /etc/cron.d/reboot
 echo "* * * * * service dropbear restart" > /etc/cron.d/dropbear
 #sed -i '$ i\screen -AmdS check /root/autokill.sh' /etc/rc.local
 chmod +x bench-network.sh
