@@ -298,7 +298,7 @@ echo "Timezone : Asia/Jakarta (GMT +7)"  | tee -a log-install.txt
 echo "Fail2Ban : [on]"  | tee -a log-install.txt
 echo "IPv6     : [off]"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "Auto Script Installer Vps - www.fornesia.com"  | tee -a log-install.txt
+echo "Auto Script Installer Vps Alviena Pramesty - www.fornesia.com"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Log Instalasi --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
